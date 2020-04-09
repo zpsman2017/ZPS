@@ -11,7 +11,7 @@
 
 
 	<body>
-		<?php include 'navbar.php' ?>
+		<?php include '../navbar.php' ?>
 		<h1>This is a showcase of my schoolwork</h1>
 	</body>
 </html>
