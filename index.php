@@ -17,5 +17,4 @@
 		<button onclick=toggleMenu()>Toggle Menu</button>
 
 	</body>
-		<script src='scripts.js'></script>
 </html>
