@@ -13,5 +13,9 @@
 	<body>
 		<?php include 'navbar.php' ?>
 		<h1>This is hosted on Zach's personal server!</h1>
+		
+		<button onclick=toggleMenu()>Toggle Menu</button>
+
 	</body>
+		<script src='scripts.js'></script>
 </html>

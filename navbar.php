@@ -1,7 +1,7 @@
-<div class='navbar row'>
+<div class='navbar row' id='test'>
     <div class='col-8'><a>ZPS</a></div>
-    <div class='col-1'><a>Home</a></div>
-    <div class='col-1'><a>School</a></div>
-    <div class='col-1'><a>Current</a></div>
-    <div class='col-1'><a>About</a></div>
+    <div class='col-1 navLink'><a>Home</a></div>
+    <div class='col-1 navLink'><a>School</a></div>
+    <div class='col-1 navLink'><a>Current</a></div>
+    <div class='col-1 navLink'><a>About</a></div>
 </div>
