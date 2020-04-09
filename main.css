@@ -1,18 +1,55 @@
 * {
 	box-sizing: border-box;
 	font: lighter 18px Arial, sans-serif;
+}
+
+body {
 	margin: 0;
-	padding: 0;
+}
+
+.navbar {
+	height: 50px;
+	background-color: rgb(51,113, 190);
+	color: white;
+}
+
+.navbar div:first-child {
+	text-align: left;
+	padding-left: 30px;
+}
+
+.navbar div:first-child a {
+	font-size: 45px;
 }
 
 h1 {
 	text-align: center;
-	font: lighter 30px Arial, sans-serif;
+	font-size: 30px;
 }
 
-#navbar {
-	width: 100%;
-	background-color: rgb(51,113,190);
-	margin: 0;
-	padding: 0;
+/* Everything below is for using the grid view */
+
+.row::after {
+	content: "";
+	clear: both;
+	display: table;
 }
+
+[class*="col-"] {
+	float: left;
+	text-align: center;
+	line-height: 50px;
+  }
+
+.col-1 {width: 8.33%;}
+.col-2 {width: 16.66%;}
+.col-3 {width: 25%;}
+.col-4 {width: 33.33%;}
+.col-5 {width: 41.66%;}
+.col-6 {width: 50%;}
+.col-7 {width: 58.33%;}
+.col-8 {width: 66.66%;}
+.col-9 {width: 75%;}
+.col-10 {width: 83.33%;}
+.col-11 {width: 91.66%;}
+.col-12 {width: 100%;}
