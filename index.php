@@ -10,7 +10,7 @@
 	</head>
 
 
-	<body>
+	<body onresize="changeView()">
 		<?php include 'navbar.php' ?>
 		<h1>This is hosted on Zach's personal server!</h1>
 		

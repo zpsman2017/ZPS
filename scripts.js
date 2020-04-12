@@ -12,9 +12,11 @@ function toggleMenu() {
 function changeView() {
     var links = document.getElementsByClassName("navLink");
     
-    if(window.innerWidth >= 769)
+    if(window.innerWidth >= 769) {
         for(let l of links) { l.style.display = "initial";}
-    else
+    }
+    else {
         for(let l of links) { l.style.display = "none";}
+    }
 
 }
