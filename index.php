@@ -12,9 +12,11 @@
 
 	<body onresize="changeView()">
 		<?php include 'navbar.php' ?>
-		<h1>This is hosted on Zach's personal server!</h1>
-		
-		<script src='scripts.js'></script>
 
+		<div class="col-12 contentDiv">
+			<h1>This is hosted on Zach's personal server!</h1>
+		</div>
+		
+		<script src="/scripts.js"></script>
 	</body>
 </html>

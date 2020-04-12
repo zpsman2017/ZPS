@@ -10,8 +10,13 @@
 	</head>
 
 
-	<body>
+	<body onresize="changeView()">
 		<?php include '../navbar.php' ?>
-		<h1>This is a showcase of my schoolwork</h1>
+
+		<div class="col-12 contentDiv">
+			<h1>This is a showcase of my schoolwork</h1>
+		</div>
+
+		<script src="/scripts.js"></script>
 	</body>
 </html>

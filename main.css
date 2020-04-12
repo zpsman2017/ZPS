@@ -39,6 +39,8 @@ body {
 	display: none;
 	background-color: var(--main-blue-dark);
 	text-align: center;
+	padding-bottom: 20px;
+	z-index: 10;
 }
 
 .navLink:hover {
@@ -49,11 +51,18 @@ body {
 	position: absolute;
 	top: 5px;
 	right: 6px;
+	height: 40px;
+	width: 40px;
+}
+
+.contentDiv {
+	position: absolute;
+	top: 50px;
+	z-index: -1;
 }
 
 h1 {
 	font-size: 30px;
-	margin-top: 20px;
 }
 
 [class*="col-"] {
