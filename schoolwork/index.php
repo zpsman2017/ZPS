@@ -14,7 +14,7 @@
 		<?php include '../navbar.php' ?>
 
 		<div class="col-12 contentDiv">
-			<h1>This is a showcase of my schoolwork</h1>
+			<h1>This is a showcase of my schoolwork!</h1>
 		</div>
 
 		<script src="/scripts.js"></script>
