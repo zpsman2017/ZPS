@@ -20,10 +20,11 @@
 				<div class="col-2 filler-top"></div>
 				<div class="col-8 headerDiv">
 					<h2>Battleship (Java, MVC)</h2>
-					<div class="col-12">
+					<div class="col-12 paraDiv">
 						<p>This was a coding project for my Software Architecture and Design class.
 							There was a GUI view and a CLI view. This allowed the user to choose how they want to
-							interact with and play the game.
+							interact with and play the game. I feel pretty good about the design and code quality,
+							but I could have made the game a bit better.(It would be nice to have different size ships)
 						</p>
 					</div>
 					<div class="col-6">

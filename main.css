@@ -102,8 +102,8 @@ h2 {
 	display: table;
 }
 
-.internal {
-	border: 1px solid red;
+.paraDiv {
+	margin-top: -20px;
 }
 
 .responsiveImg {
