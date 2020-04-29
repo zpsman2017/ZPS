@@ -3,7 +3,7 @@
 
 	<head>
 		<title>Zach's Personal Server</title>
-		<meta charset="utf-8" name="viewport" content="width=device-width", initial-scale=1.0"/>
+		<meta charset="utf-8" name="viewport" content="width=device-width", initial-scale=1.0">
 
 		<!-- Personal CSS -->
 		<link rel="stylesheet" type="text/css" href="../main.css">
@@ -15,6 +15,25 @@
 
 		<div class="col-12 contentDiv">
 			<h1>This is a showcase of my schoolwork!</h1>
+
+			<div class="row">
+				<div class="col-2 filler-top"></div>
+				<div class="col-8 headerDiv">
+					<h2>Battleship (Java, MVC)</h2>
+					<div class="col-12">
+						<p>This was a coding project for my Software Architecture and Design class.
+							There was a GUI view and a CLI view. This allowed the user to choose how they want to
+							interact with and play the game.
+						</p>
+					</div>
+					<div class="col-6">
+						<img src="/images/battleshipCLI.png" class="responsiveImg" id="battleshipCLI">
+					</div>
+					<div class="col-6">
+						<img src="/images/battleshipGUI.png" class="responsiveImg" id="battleshipGUI">
+					</div>
+				</div>	
+			</div>
 		</div>
 
 		<script src="/scripts.js"></script>

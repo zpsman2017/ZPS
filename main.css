@@ -100,7 +100,24 @@ h2 {
 	content: "";
 	clear: both;
 	display: table;
-  }
+}
+
+.internal {
+	border: 1px solid red;
+}
+
+.responsiveImg {
+	max-width: 100%;
+	height: auto;
+}
+
+#battleshipCLI {
+	border: 1px solid black;
+}
+
+#battleshipGUI {
+	max-width: 90%;
+}
 
 @media only screen and (min-width: 769px) {
 
