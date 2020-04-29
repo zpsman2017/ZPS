@@ -96,6 +96,10 @@ h2 {
 	float: left;
 }
 
+.row {
+	margin-bottom: 30px;
+}
+
 .row::after {
 	content: "";
 	clear: both;
@@ -111,12 +115,12 @@ h2 {
 	height: auto;
 }
 
-#battleshipCLI {
-	border: 1px solid black;
+.battleshipImg {
+	max-width: 70%;
 }
 
-#battleshipGUI {
-	max-width: 90%;
+#battleshipCLI {
+	border: 1px solid black;
 }
 
 @media only screen and (min-width: 769px) {

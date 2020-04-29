@@ -20,7 +20,8 @@
 				<div class="col-2 filler-top"></div>
 				<div class="col-8 headerDiv">
 					<h2>Battleship (Java, MVC)</h2>
-					<div class="col-12 paraDiv">
+					<div class="col-1 filler-top"></div>
+					<div class="col-10 paraDiv">
 						<p>This was a coding project for my Software Architecture and Design class.
 							There was a GUI view and a CLI view. This allowed the user to choose how they want to
 							interact with and play the game. I feel pretty good about the design and code quality,
@@ -28,10 +29,10 @@
 						</p>
 					</div>
 					<div class="col-6">
-						<img src="/images/battleshipCLI.png" class="responsiveImg" id="battleshipCLI">
+						<img src="/images/battleshipCLI.png" class="responsiveImg battleshipImg" id="battleshipCLI">
 					</div>
 					<div class="col-6">
-						<img src="/images/battleshipGUI.png" class="responsiveImg" id="battleshipGUI">
+						<img src="/images/battleshipGUI.png" class="responsiveImg battleshipImg">
 					</div>
 				</div>	
 			</div>
