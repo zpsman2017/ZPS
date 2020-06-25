@@ -29,7 +29,7 @@
 				<div class="col-45 headerDiv">
 					<h2>How?</h2>
 					<p>I got some spare computers from an office that had gotten new ones. I pieced together the best hardware and installed Ubuntu Server on it.
-					I use Apache for the webserver, OpenSSH in order to access it remotely, and a VS Code server in order to edit files with an IDE.</p>
+					I use Apache for the webserver, OpenSSH in order to access it remotely via terminal and an IDE</p>
 					<p>As I change WHAT I'm hosting, I will be adding more functionality.</p>
 				</div>
 			</div>
