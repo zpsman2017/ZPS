@@ -14,7 +14,12 @@
 		<?php include '../navbar.php' ?>
 
 		<div class="col-12 contentDiv">
-			<h1>This is a showcase of my schoolwork!</h1>
+			<div class="row top">
+				<div class="col-3 filler-top"></div>
+				<div class="col-6 headerDiv">
+					<h1>This is a showcase of my schoolwork!</h1>
+				</div>
+			</div>
 
 			<div class="row">
 				<div class="col-2 filler-top"></div>
