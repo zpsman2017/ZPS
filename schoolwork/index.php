@@ -58,7 +58,7 @@
 						<img src="/images/miamiEsportsDesktop.png" class="responsiveImg" id="miamiEsportsDesktop">
 					</div>
 					<div class="col-6">
-						<img src="/images/miamiEsportsMobile.png" class="responsiveImg">
+						<img src="/images/miamiEsportsMobile.png" class="responsiveImg" id="miamiEsportsMobile">
 					</div>
 				</div>	
 			</div>

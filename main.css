@@ -153,5 +153,9 @@ h2 {
 	#miamiEsportsDesktop {
 		margin-top: 75px;
 	}
+
+	#miamiEsportsMobile {
+		width: 50%;
+	}
 	
 }
