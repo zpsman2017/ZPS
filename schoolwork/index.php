@@ -41,6 +41,27 @@
 					</div>
 				</div>	
 			</div>
+
+			<div class="row">
+				<div class="col-2 filler-top"></div>
+				<div class="col-8 headerDiv">
+					<h2>Miami Esports Website</h2>
+					<div class="col-1 filler-top"></div>
+					<div class="col-10 paraDiv">
+						<p>This was a semester long project for my IT Project Management class.
+							The focus of the project was responding to and implementing client requirements.
+							The site was built with MVC ASP.NET. The responsiveness of the site was one thing that really shined.
+							Each team had seperate pages with player pictures and bios.
+						</p>
+					</div>
+					<div class="col-6" >
+						<img src="/images/miamiEsportsDesktop.png" class="responsiveImg" id="miamiEsportsDesktop">
+					</div>
+					<div class="col-6">
+						<img src="/images/miamiEsportsMobile.png" class="responsiveImg">
+					</div>
+				</div>	
+			</div>
 		</div>
 
 		<script src="/scripts.js"></script>
