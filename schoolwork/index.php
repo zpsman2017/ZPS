@@ -34,10 +34,10 @@
 						</p>
 					</div>
 					<div class="col-6">
-						<img src="/images/battleshipCLI.png" class="responsiveImg battleshipImg" id="battleshipCLI">
+						<img src="/images/battleshipCLI.png" class="responsiveImg battleshipImg shadow" id="battleshipCLI">
 					</div>
 					<div class="col-6">
-						<img src="/images/battleshipGUI.png" class="responsiveImg battleshipImg">
+						<img src="/images/battleshipGUI.png" class="responsiveImg battleshipImg shadow">
 					</div>
 				</div>	
 			</div>
@@ -55,10 +55,10 @@
 						</p>
 					</div>
 					<div class="col-6" >
-						<img src="/images/miamiEsportsDesktop.png" class="responsiveImg" id="miamiEsportsDesktop">
+						<img src="/images/miamiEsportsDesktop.png" class="responsiveImg shadow" id="miamiEsportsDesktop">
 					</div>
 					<div class="col-6">
-						<img src="/images/miamiEsportsMobile.png" class="responsiveImg" id="miamiEsportsMobile">
+						<img src="/images/miamiEsportsMobile.png" class="responsiveImg shadow" id="miamiEsportsMobile">
 					</div>
 				</div>	
 			</div>
