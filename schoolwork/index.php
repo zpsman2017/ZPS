@@ -24,6 +24,28 @@
 			<div class="row">
 				<div class="col-2 filler-top"></div>
 				<div class="col-8 headerDiv">
+					<h2>Web Applications Final Project</h2>
+					<div class="col-1 filler-top"></div>
+					<div class="col-10 paraDiv">
+						<p>This project was designed to involve all the skills I had learned in my Web Applications course.
+							In order to access the page, users had to sign into my University's Central Authentication Service.
+							Users could add and remove "QuickLinks" and "VideoLinks" which would both display on the main page.
+							Users could provide a ZIP code and the weather in that area would be shown. To build this project,
+							I used HTML, CSS, Bootstrap, AJAX, PHP, SQL, and REST.
+						</p>
+					</div>
+					<div class="col-12">
+						<img src="/images/webAppsFinalProject.png" class="responsiveImg shadow">
+					</div>
+					<div class="col-12">
+						<img src="/images/webAppsFinalProjectQuickLinks.png" class="responsiveImg shadow">
+					</div>
+				</div>	
+			</div>
+
+			<div class="row">
+				<div class="col-2 filler-top"></div>
+				<div class="col-8 headerDiv">
 					<h2>Battleship (Java, MVC)</h2>
 					<div class="col-1 filler-top"></div>
 					<div class="col-10 paraDiv">
