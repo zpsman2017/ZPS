@@ -28,7 +28,7 @@
 					<div class="col-1 filler-top"></div>
 					<div class="col-10 paraDiv">
 						<p>I am still currently a student at Miami University and plan to graduate in May 2021 with a Bachelor's of Software Engineering.
-							My current coursework includes "Cloud Computing and DevOps" & "Database Systems". Starting August 2021, I will be a an IT Assurance Staff Member at Crowe.
+							My current coursework includes "Web Services" & my "Senior Design Project" capstone. Starting August 2021, I will be a an IT Assurance Staff Member at Crowe.
 						</p>
 					</div>
 					<div class="col-6">
