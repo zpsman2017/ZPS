@@ -24,6 +24,27 @@
 			<div class="row">
 				<div class="col-2 filler-top"></div>
 				<div class="col-8 headerDiv">
+					<h2>Web Services Final Project</h2>
+					<div class="col-1 filler-top"></div>
+					<div class="col-10 paraDiv">
+						<p>This project incorporated lots of communication between APIs, some were my own, some were publicly accessible, some needed OAuth to access them.
+							Users could approve the application's access to their own Todoist account where it would look for, or create a project called cities.
+							The application would then read from this list and dynamically have pages with information about that city. Weather and location for the city
+							would be shown. Users could see and add visits to this city which were read/written from a class-wide database. Laravel and JavaScript were the main languages.
+						</p>
+					</div>
+					<div class="col-12">
+						<img src="/images/webServicesFinalProject.png" class="responsiveImg shadow">
+					</div>
+					<div class="col-12">
+						<img src="/images/webServicesFinalProjectIndianapolis.png" class="responsiveImg shadow">
+					</div>
+				</div>	
+			</div>
+
+			<div class="row">
+				<div class="col-2 filler-top"></div>
+				<div class="col-8 headerDiv">
 					<h2>Web Applications Final Project</h2>
 					<div class="col-1 filler-top"></div>
 					<div class="col-10 paraDiv">
