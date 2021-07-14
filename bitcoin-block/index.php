@@ -24,7 +24,7 @@
 			<div class="row">
 				<div class="col-2 filler-top"></div>
 				<div class="col-8 headerDiv">
-					<h2>Block Height XYZ</h2>
+					<h2>Block Hash: </h2>
 					<div class="col-1 filler-top"></div>
 					<div class="col-10 paraDiv">
 						<p>Block data here
