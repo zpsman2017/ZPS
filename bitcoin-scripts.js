@@ -14,7 +14,7 @@ function getLatestHash() {
 
 	$.ajax(settings).done(function (response) {
 		latestHash = response;
-		$("h2").html("Block Hash: " + latestHash)
+		$("h2").html("Block Hash: " + latestHash);
 
 		getLatestBlockData(latestHash);
 	});
@@ -37,4 +37,7 @@ function getLatestBlockData(hash) {
 
 function printBlockData(block) {
 	console.log(block);
+
+	$("#block-height").html(block.height);
+	$("#block-transactions").html(block.n_tx);
 }

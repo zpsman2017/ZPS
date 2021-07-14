@@ -27,8 +27,10 @@
 					<h2>Block Hash: </h2>
 					<div class="col-1 filler-top"></div>
 					<div class="col-10 paraDiv">
-						<p>Block data here
-						</p>
+						<table>
+                            <tr><td>Height</td><td id='block-height'></td></tr>
+                            <tr><td>Transactions</td><td id='block-transactions'></td></tr>
+                        </table>
 					</div>
 				</div>	
 			</div>
