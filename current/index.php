@@ -17,7 +17,7 @@
 			<div class="row top">
 				<div class="col-3 filler-top"></div>
 				<div class="col-6 headerDiv">
-					<h1>Recently graduated, soon to start a job</h1>
+					<h1>Recently graduated, currently an IT Auditor</h1>
 				</div>
 			</div>
 
@@ -29,8 +29,8 @@
 					<div class="col-10 paraDiv">
 						<p>I recently graduated Miami University in May 2021 with a Bachelor's of Software Engineering.
 							My favorite courses included "Web Services", "Cloud Computing & DevOps", and "Data Abstraction & Structures".
-							Starting August 2021, I will be a an IT Assurance Staff Member at Crowe.
 						</p>
+						<p>Since August 2021, I have been an IT Assurance Staff Member at Crowe.</p>
 					</div>
 					<div class="col-6">
 						<img src="/images/miami.png" class="responsiveImg">
