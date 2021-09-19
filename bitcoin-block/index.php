@@ -28,8 +28,8 @@
 					<div class="col-1 filler-top"></div>
 					<div class="col-10 paraDiv">
 						<table>
-                            <tr><td>Height</td><td id='block-height'></td></tr>
-                            <tr><td>Transactions</td><td id='block-transactions'></td></tr>
+                            <tr><td class="table-label">Height:</td><td class="table-data" id='block-height'></td></tr>
+                            <tr><td class="table-label">Transactions:</td><td class="table-data" id='block-transactions'></td></tr>
                         </table>
 					</div>
 				</div>	
